@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(162, 151, 203);
+  margin: 0;
+  color: rgb(241, 246, 242);
+  text-shadow: rgb(254, 130, 42);
+}
+
+h1 {
+  color: rgb(255, 201, 38);
+  font-size: 36px;
+  background-color: azure;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: rgb(242, 163, 28);
+  background-color: azure;
+}
+
+a {
+  color: rgb(226, 141, 43);
+  text-decoration: none;
+  background-color: azure;
+}
+
+a:hover {
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+.blue {
+  color: blue;
+  background-color: azure;
+}
+
+.green {
+  color: rgb(22, 205, 22);
+  background-color: azure;
+}
+
+.orange {
+  color: orange;
+  background-color: azure;
+}
+
+#header-2 {
+  color: rgb(255, 42, 0);
+  background-color: azure;
+}
+
+.fries {
+  height: 300px;
+  width: 300px;
+}
+
+.burger {
+  height: 300px;
+  width: 390px;
+}
+
+.mcdonalds-logo {
+   height: 400px;
+   width: 400px;
+}
